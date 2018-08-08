@@ -4,7 +4,7 @@ services:
     restart: always
     image: node
     ports:
-      - 4000:3000
+      - 3000:3000
     links:
       - mongo
     working_dir: /app
