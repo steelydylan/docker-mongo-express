@@ -1,5 +1,11 @@
 # docker-mongo-express
 
+build
 ```
-docker-compose up
+$ docker-compose build
+```
+
+run
+```
+$ docker-compose up
 ```
